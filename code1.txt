@@ -1,3 +1,5 @@
 checking for fork
 added line 2
 git revert
+git log
+git log --oneline
