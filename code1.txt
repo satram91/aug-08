@@ -1,5 +1,11 @@
 checking for fork
 added line 2
+
 git revert
 git log
 git stash
+
+
+
+git merge
+
